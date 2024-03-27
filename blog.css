@@ -1,0 +1,82 @@
+body{
+    background-color: lightgray;
+}
+.container{
+    container: 50px;padding: 32px;
+    text-align-last: center;
+}
+.tag{
+    color: white;
+    background-color: black
+    
+}
+.row{
+    grid-row:calc(50px);
+}
+.column{
+    column-count: 2;
+}
+.margin{
+    margin: 50px;
+    background-color: white;
+}
+.om{
+    opacity:calc(20px);
+}
+.button{
+    padding: large;
+    background-color: white;
+    border-radius: 15px;
+}
+.padding{
+    padding: large;
+    scroll-padding-right: 50%;
+}
+.w{
+    container: 50px;
+    background-color: white;
+}
+.card{
+    margin: 50px;
+    margin-top: 55px;
+}
+.wq{
+    margin: 60px;
+}
+.p{
+    container: 50px;
+    padding: 50px;
+}
+.ul{
+    background-color: white;
+}
+.li{
+    padding: 16px;
+}
+.amber{
+    font-size: large;
+}
+.amb{
+    font-size: small;
+}
+.black{
+    background-color: lightgray;width: 40%;
+    font-size: small;
+    margin-bottom: 10px;
+    font-stretch: expanded;
+    width: 50px;;
+}
+.h{
+    font-size: larger;
+}
+.footer{
+    container: 90px;
+    background-color: darkgray;
+    margin-top: 50px;
+    padding: 32px;
+}
+.but{
+    background-color: black;
+    padding: large;
+    margin-bottom: 35px;
+}
